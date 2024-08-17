@@ -360,4 +360,3 @@ if __name__ == "__main__":
 
         elif "leave it" in query or "leave for now" in query:
             speak("okey")
-        # speak("sir, do you have any other work")
